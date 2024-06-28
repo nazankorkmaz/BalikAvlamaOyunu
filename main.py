@@ -1,4 +1,3 @@
-# Yılmaz alaca orta seviye oyun gelistirme videosu
 
 import pygame
 import random
